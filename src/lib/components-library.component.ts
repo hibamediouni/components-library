@@ -4,8 +4,10 @@ import { Component, OnInit } from '@angular/core';
   selector: 'lib-ComponentsLibrary',
   template: `
     <p>
-      components-library works!
+      components-library works!git 
     </p>
+    <lib-footer></lib-footer>
+    <p>aaaaaaaa</p>
   `,
   styles: []
 })
